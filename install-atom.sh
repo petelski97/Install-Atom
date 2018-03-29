@@ -2,7 +2,8 @@
 
 #64 Bit
 
-wget https://atom.io/download/deb
+wget https://atom.io/download/atom-amd64.deb
+
 
 sudo dpkg -i atom-amd64.deb
 
